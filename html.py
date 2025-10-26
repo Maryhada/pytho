@@ -1,0 +1,11 @@
+# This how to use python to create a simple HTML page.
+print("Hello again.")
+print("Welcome back to Python programming!")
+print("Today, we are going to create a simple HTML page using Python.")
+print("Let`s get started!")
+print("Do you know what HTML stands for?")
+print("HTML stands for HyperText Markup Lanuage.")
+print("HTML is used to create web pages.")
+print("With Python, we can generate HTML code easily.")
+print("So, let`s try something " , 56)
+print("Here is a simple example 56")
